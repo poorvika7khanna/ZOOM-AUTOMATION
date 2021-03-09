@@ -13,7 +13,7 @@ An automation GUI to automatically join a scheduled zoom meeting at a specific t
 + `pip install keyboard`
 + To [Download Zoom Software](https://zoom.us/download#client_4meeting)
 ## Setting up configurations :
-##### Set the Video Settings as follows :
+##### Set the General Settings as follows :
 <img src = "zoom_general.jpeg" width = "600">
 ## About the team
 This was developed for Makeathon 3077 by the team K-PHAM comprising of:
