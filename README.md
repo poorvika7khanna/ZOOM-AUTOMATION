@@ -15,6 +15,7 @@ An automation GUI to automatically join a scheduled zoom meeting at a specific t
 ## Setting up configurations :
 ##### Set the General Settings as follows :
 <img src = "zoom_general.jpeg" width = "600">
+
 ## About the team
 This was developed for Makeathon 3077 by the team K-PHAM comprising of:
 + [Ankit Singla](https://github.com/ankitsingla8427)
@@ -22,5 +23,5 @@ This was developed for Makeathon 3077 by the team K-PHAM comprising of:
 + [Kunal Pathak](https://github.com/stillearning2)
 + [Muskan Aggarwal](https://github.com/muskan024)
 + [Poorvika Khanna](https://github.com/poorvika7khanna)
-### Stage of development
+#### Stage of development
 At present the program works for a single day, but we will extend it for a full week with time.
