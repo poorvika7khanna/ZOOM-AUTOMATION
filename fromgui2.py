@@ -117,7 +117,7 @@ def set_select():
 
 win = make_window()
 win.title("ZOOM AUTOMATION")
-#win.iconbitmap("D:\\web dev html\\python\\zoom_93927.ico")
+win.iconbitmap("zoom_icon.ico")
 win.geometry('400x400')
 
 set_select()
